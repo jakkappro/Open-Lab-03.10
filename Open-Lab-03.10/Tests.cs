@@ -16,7 +16,7 @@ namespace Open_Lab_03._10
         private const int RandStrMinSize = 50;
         private const int RandStrMaxSize = 10000;
         private const int RandSeed = 310310310;
-        private const int RandTestCasesCount = 95;
+        private const int RandTestCasesCount = 97;
 
         [OneTimeSetUp]
         public void Init()
